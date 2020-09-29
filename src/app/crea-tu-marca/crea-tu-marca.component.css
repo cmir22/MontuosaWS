@@ -1,0 +1,30 @@
+.card{
+    border: none;
+    margin-top: -5;
+    margin-bottom: 3px;
+}
+
+#titlePublicidad{
+    margin-top: 25px;
+    color: white;
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+
+#header{
+    background-color:black;
+}
+
+#textBottomPitcure{
+    color: #FCFAE1;
+    font-size:5vw;
+}
+
+#botter{
+    background-color: black;
+    margin-top: -20px;
+}
+
+.row{
+    background-color: black;
+}

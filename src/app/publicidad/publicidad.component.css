@@ -1,0 +1,46 @@
+#titlePublicidad{
+    margin-top: 25px;
+    color: white;
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+
+#header{
+    background-color: #FF7300;
+
+}
+
+.card{
+    border: none;
+    margin-top: -5;
+}
+
+#imagesCarousel{
+    max-width: auto;
+    max-height: auto;
+}
+
+
+#cardPublicidad{
+    background-color: #2E0927;
+    border: none;
+}
+
+#titlePaginaWeb{
+    margin-top: 25px;
+    color: white;
+    font-size: 60px;
+}
+
+#textPublicidad{
+    margin-top: 70px !important; 
+    margin: 0 auto; /* Added */
+    background-color: #2E0927;
+    color: white;
+}
+
+#imagesCards{
+    max-width: 150px;
+    max-height: 150px;
+}
+

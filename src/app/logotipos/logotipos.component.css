@@ -1,0 +1,39 @@
+.card{
+    border: none;
+    background-color: #2E2E2E;
+    color: white;
+}
+
+#topImage{
+    background-color: #2E2E2E;
+}
+
+#titlePaginaWeb{
+    margin-top: 25px;
+    color: #CFAD44;
+    font-size: 60px;
+    margin-bottom: 30px;
+  text-shadow: 4px 4px 4px 4px white;
+}
+
+
+#textLogotipos{
+    margin-top: 50px;
+    color: #FFFFFF;
+    font-size: 35px;
+    margin-bottom: 60px;
+}
+
+#aumentaVentas{
+    margin-top: -30px;
+    background-color: #2E2E2E;
+}
+
+#cardsIdentity{
+    margin-top: -50px;
+}
+
+#imagesIdentity{
+    max-width: auto;
+    max-height: 375px;
+}

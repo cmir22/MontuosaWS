@@ -1,0 +1,90 @@
+
+.jumbotron1{
+    background-color:#081226;
+    margin-top: 10px;
+    
+}
+
+#description{
+    margin-top: -20px;
+    text-align: center;
+    background-color: #081226;
+    color: white;
+    height: 230px;
+    margin-bottom: -20;
+    
+}
+
+
+#description2{
+    background-color: white;
+}
+
+.display-4{
+    font-size: 30px;
+}
+
+
+
+#botonservicios{
+    background-color:#626973;
+    border-color:#626973;
+}
+
+.card{
+    background-color: #081226;
+    margin-top:50px;
+    border: none;
+}
+
+.card-img-top{
+    margin-top: 25px;
+}
+
+
+
+
+
+#socialmedia{
+    margin-top: -42px;
+}
+
+
+.card-title{
+    color:#F2F2F2; 
+    text-align: center;
+    font-size: 25px;
+}
+
+
+#descripcion-crecetunegocio{
+    font-size: 20px;
+    color: #F2F2F2;
+    text-align: center;
+    -webkit-text-stroke: 0.4px black;
+}
+
+
+#derechos{
+    text-align: center;
+    color: black;
+}
+
+
+#titlePaginaWeb{
+    color: black;
+    font-size: 60px;
+    background-color: white;
+    text-align: center;
+    width: auto;
+    height: 100px;
+    margin-top: 50px;
+}
+
+#cardBrownShoes{
+    background-color: #011c26;
+}
+
+#contactanos{
+    margin-top: -75px;
+}

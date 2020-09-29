@@ -1,0 +1,49 @@
+#cardHeader{
+    border: none;
+    margin-top: -5;
+    margin-bottom: 3px;
+}
+
+#titlePublicidad{
+    margin-top: 25px;
+    color: black;
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+
+#header{
+    background-color:#f2f2f2;
+}
+
+#topImage{
+    border: none;
+    margin-top: -5;
+    margin-bottom: 3px;
+}
+
+
+
+
+#botter{
+    background-color: #040404;
+    margin-top: -20px;
+    border: none;
+}
+
+
+
+#carBotter{
+    border: none;
+    margin-top: -5;
+    margin-bottom: 3px;
+}
+
+#text{
+    color: white;
+    font-size:5vw;
+    margin-bottom: 40px;
+}
+
+#carouselExampleCaptions{
+    margin-top: -15;
+}

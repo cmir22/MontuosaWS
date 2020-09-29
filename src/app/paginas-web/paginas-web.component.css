@@ -1,0 +1,71 @@
+#brownShoes{
+    
+    max-width: auto;
+    max-height: 609px;
+
+}
+
+
+#cardBrownShoes{
+    background-color: #011c26;
+}
+
+#titlePaginaWeb{
+    margin-top: 25px;
+    color: white;
+    font-size: 60px;
+}
+
+#bottomPaginaWeb{
+    color: white;
+    margin-top: 5px;
+}
+
+#bottomPaginaWebOrange{
+    color: orange !important;
+}
+
+.card-body{
+    background-color:  #011c26;
+}
+
+.card{
+    border: none;
+}
+
+#womanCardImage{
+    max-width: auto;
+    max-height: 609px;
+}
+
+#bottomMontuosaImage{
+    max-width: 30;
+}
+
+#bottomMontuosaImageBar{
+    background-color: #03738C;
+    max-height: 2px;
+}
+
+
+#aumentaVentas{
+    color: white;
+    background-color: #011c26;
+}
+
+#buttonContactanos{
+    margin-top: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+#bottomMOntuosa{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+#socialmedia{
+    margin-top: -33px;
+}
